@@ -38,7 +38,7 @@ function calculate(){
     //"+" antes do "=" indica que ir imprimir mais de um innerHTML
     result.innerHTML =  `<p>${totalMeat /1000} kg de carne.</p>`
     result.innerHTML += `<p>${Math.ceil(totalBeer /355)} latas de cerveja.</p>`
-    result.innerHTML += `<p>${Math.ceil(totalSoda /2000)} litro de refrigerante.</p>`
+    result.innerHTML += `<p>${Math.ceil(totalSoda /2000)} litros de refrigerante.</p>`
 
 }
 
