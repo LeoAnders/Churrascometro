@@ -14,7 +14,7 @@
 
 </div><br>
 
-<p>Desenvolvido no curso ProgBR, um projeto para calcular a quantidade de Carne, Cerveja e refrigerante, baseada em quantas pessoas vão estar nesse churrasco  e quanto tempo vai durar esse churrasco</p><br>
+<p>Desenvolvido no curso ProgBR, um projeto para calcular a quantidade de Carne, Cerveja e refrigerante, baseado em quantas pessoas vão estar nesse churrasco  e quanto tempo vai durar esse churrasco</p><br>
 
 
 <h1 align="center">
