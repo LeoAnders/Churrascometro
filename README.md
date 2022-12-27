@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="www.linkedin.com/in/leonardo-matheus-anders-23706920a" alt="Linkedin" target="_blank">
+<a href="https://www.linkedin.com/in/leonardo-matheus-anders-23706920a" alt="Linkedin" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
@@ -32,7 +32,7 @@
 
 ##
 
-<h2>Tecnologias utilizadas</h2>
+<h2 align="center">Tecnologias utilizadas</h2>
 
 <div display="flex">
 
